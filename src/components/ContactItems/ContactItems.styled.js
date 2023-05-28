@@ -7,3 +7,8 @@ export const DeleteBtn = styled.button`
   cursor: pointer;
   background-color: white;
 `;
+
+export const Item = styled.p`
+  font-size: 16px;
+  font-weight: 500;
+`;
